@@ -19,7 +19,7 @@ public class FilePollingRoute extends RouteBuilder {
 
 
     /**
-     * 
+     * Configure setting up the camel routes
      * @throws Exception
      */
     @Override
